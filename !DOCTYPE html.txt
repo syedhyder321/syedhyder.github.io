@@ -24,7 +24,12 @@
         const YOUR_AFFILIATE_TAG = "yourtag-20"; 
         
         // Trending product categories (change these keywords)
-        const KEYWORDS = ["wireless+earbuds", "yoga+mat", "smart+watch"];
+        const KEYWORDS = ["mechanical+keyboard", "bluetooth+speaker", "webcam"];
+ech: ["mechanical+keyboard", "bluetooth+speaker", "webcam"]
+
+Home: ["air+fryer", "robot+vacuum", "scented+candles"]
+
+Fitness: ["dumbbells", "yoga+pants", "protein+powder"]
         
         // Fetch products from Amazon API
         async function loadProducts() {
